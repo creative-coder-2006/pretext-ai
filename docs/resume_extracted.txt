@@ -1,0 +1,63 @@
+--- PAGE 1 ---
+ABHINAV BOTLAGUDURU
+Student
++917396891549    abhinavbotlaguduru@gmail.com    https://www.linkedin.com/in/abhinav-botlaguduru-8b4992309/
+Hyderabad, Telangana
+SUMMARY
+I'm a second-year Computer Science undergraduate at Manipal Academy of Higher
+Education, Bengaluru, with a specialization in Data Science. I've been passionate about
+programming since 7th grade, and over the years, I've developed strong proficiency in
+Python and SQL. I'm always exploring new tools, technologies, and ideas in the data
+science space to sharpen my skills and stay updated. Currently, I'm working on a project
+aimed at transforming student life on campus by solving real challenges students face
+through smart, data-driven solutions. I'm eager to keep learning, building, and
+contributing to impactful tech.
+EDUCATION
+B.Tech Computer Science (Data Science)
+Manipal Academy of Higher Education, Bengaluru
+08/2024 - 05/2028
+High School
+Meridian School, Hyderabad, India
+05/2022 - 02/2024
+PROJECTS
+Urban Intelligence Dashboard
+Developed an AI-powered dashboard that lets users select a city and view key
+demographic data, local issues with proposed solutions, and satellite imagery
+(vegetation, water bodies, urbanization) over time. Used Python libraries like Plotly,
+Seaborn, and Matplotlib for interactive and insightful data visualizations, and
+implemented machine learning algorithms to generate city-specific, actionable insights
+for urban planning, resource management, environmental sustainability, and biodiversity
+conservation.
+Youtube Channel Data Management System
+Engineered a data-driven YouTube Channel Management and Analytics System using
+Python and SQL, designed to process and analyze high-impact performance metrics for
+the top 15 global channels. Employed Pandas and NumPy for advanced data wrangling,
+Matplotlib for multi-dimensional visualizations, and integrated structured queries to
+optimize data retrieval and segmentation. Enabled comprehensive insight generation
+across parameters like ranking algorithms, viewer distribution, content categorization,
+regional trends, and subscriber growth patterns.
+VOLUNTEERING & LEADERSHIP
+Executive Member - Office of Alumni Relations
+MIT Bengaluru
+01/2026 - Present
+LANGUAGES
+English
+Proficient
+Telugu
+Advanced
+Hindi
+Advanced
+CERTIFICATIONS
+Python for Data Science, AI &
+Development
+IBM
+Fundamentals of Java Programming
+Board Infinity
+TECHNICAL SKILLS
+Advanced Python Programming
+Basic Java
+Intermediate SQL(1 year experience)
+Intermediate C Programming
+ACHIEVEMENTS
+BECon '26 IIT Delhi
+Finalist

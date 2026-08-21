@@ -1,0 +1,27 @@
+{
+  "name": "pretext",
+  "description": "Pretext — the inline AI prompt autocomplete engine",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wxt",
+    "dev:firefox": "wxt -b firefox",
+    "build": "wxt build",
+    "zip": "wxt zip",
+    "icons": "node scripts/make-icons.mjs",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "postinstall": "wxt prepare"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.0",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.6.3",
+    "vitest": "^4.1.8",
+    "wxt": "^0.20.0"
+  }
+}
